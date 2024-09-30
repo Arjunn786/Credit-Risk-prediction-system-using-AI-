@@ -1,4 +1,4 @@
-Here’s a sample **README.md** file for your Credit Risk Prediction System project:
+![Uploading Screenshot 2024-09-30 at 5.28.28 PM.png…]()
 
 ---
 

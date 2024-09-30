@@ -4,6 +4,12 @@
 
 # **Credit Risk Prediction System**
 <img width="1440" alt="Screenshot 2024-09-30 at 5 28 28 PM" src="https://github.com/user-attachments/assets/23fb5b5e-60ee-4f9d-a49f-b6ec2268dbd1">
+<img width="1440" alt="Screenshot 2024-09-30 at 5 28 57 PM" src="https://github.com/user-attachments/assets/6857f7cc-b461-4c1d-9e92-287800805296">
+<img width="1440" alt="Screenshot 2024-09-30 at 5 29 19 PM" src="https://github.com/user-attachments/assets/a6ac74d2-efd5-4c53-9224-068bc0a6039c">
+<img width="1440" alt="Screenshot 2024-09-30 at 5 29 48 PM" src="https://github.com/user-attachments/assets/6080caef-107d-413f-9aa5-97b72b69e4dd">
+
+
+
 
 This project aims to predict whether a borrower is likely to default on their credit payment using machine learning techniques. By analyzing financial history, demographic data, and repayment behavior, the model provides predictions that can help financial institutions make informed decisions about credit risk management.
 
